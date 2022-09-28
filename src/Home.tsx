@@ -645,7 +645,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: "grey" }}
           >
-            Powered by METAPLEX
+            An exclusive clan of 4,578 creatures, made by Jozef
           </Typography>
         </Paper>
       </Container>
